@@ -239,3 +239,17 @@
     color: #e5e7eb;
     font-weight: bold;
 }
+
+.content_block_five{
+    background-color: #1F2937;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #e5e7eb;
+}
+
+.cb5_text{
+    font-size: 18px;
+    text-align: center;
+}
