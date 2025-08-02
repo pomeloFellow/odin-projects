@@ -1,0 +1,22 @@
+.CardDiv{
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  border-style: double;
+  border-width: 5px;
+  border-color: purple;
+}
+
+.CardImage{
+  width: 75%;
+  align-self: center;
+  justify-self: center;
+  image-rendering: pixelated;
+}
+
+.CardName{
+  width: 100%;
+  text-align: center;
+}
