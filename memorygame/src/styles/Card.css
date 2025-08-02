@@ -1,5 +1,6 @@
 .CardDiv{
   width: 100px;
+  height: 150px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -7,10 +8,11 @@
   border-style: double;
   border-width: 5px;
   border-color: purple;
+  background-color: palevioletred;
 }
 
 .CardImage{
-  width: 75%;
+  max-height: 75%;
   align-self: center;
   justify-self: center;
   image-rendering: pixelated;
