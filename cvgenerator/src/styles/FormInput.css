@@ -1,0 +1,12 @@
+input {
+  text-align: center;
+  border-radius: 10px;
+}
+
+input:hover {
+  background-color: pink;
+}
+
+input:focus {
+  background-color: aquamarine;
+}
